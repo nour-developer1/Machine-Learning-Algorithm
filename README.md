@@ -24,7 +24,7 @@ Useful for large-scale predictive pipelines where model generalization is critic
 ### **K-Nearest Neighbors (KNN)**
 Instance-based learning for classification and regression, with configurable distance metrics and weighting strategies.
 
-### **Logistic Regression**
+<!--### **Logistic Regression**
 Optimized binary classifier with regularization support, suited for linearly separable decision boundaries and baseline benchmarking.
 
 ### **Naive Bayes**
@@ -34,7 +34,7 @@ Probabilistic classifiers leveraging conditional independence; includes Gaussian
 Ensemble of decision trees with feature bagging, supporting out-of-bag evaluation and feature importance extraction.
 
 ### **Support Vector Machines (SVM)**
-Kernel-based approach for high-dimensional classification or regression scenarios, optimized for non-linear decision boundaries.
+Kernel-based approach for high-dimensional classification or regression scenarios, optimized for non-linear decision boundaries. -->
 
 ---
 
