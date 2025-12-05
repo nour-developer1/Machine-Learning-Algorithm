@@ -62,16 +62,5 @@ Every algorithm folder provides practical examples demonstrating:
 
 These examples are structured to integrate smoothly into CI/CD pipelines, ML experimentation platforms, and automated model evaluation frameworks.
 
----
-
-## 🚀 Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/nour-developer1/machine-learning-algorithms.git
-cd machine-learning-algorithms
-
-# Install dependencies
-pip install -r requirements.txt
 
 
