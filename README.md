@@ -1,12 +1,10 @@
 # Machine Learning Algorithms and Datasets
 
+---
+
 Welcome to the **Machine Learning Algorithms and Datasets** repository.  
 This project provides modular, production-ready Python implementations of widely used machine learning algorithms, complemented by curated datasets for experimentation, benchmarking, and integration into larger data workflows.
 
----
-
-
-Each module is fully isolated to support reuse, integration, and pipeline automation across enterprise ML workloads.
 
 ---
 
@@ -42,7 +40,7 @@ Kernel-based approach for high-dimensional classification or regression scenario
 
 ## 📊 Datasets
 
-The `datasets/` directory contains example datasets used across algorithm modules.  
+The datasets directory contains example datasets used across algorithm modules.  
 You can extend the repository by adding your own datasets for:
 
 - Comparative model evaluations  
