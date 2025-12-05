@@ -1,7 +1,5 @@
 # Machine Learning Algorithms and Datasets
 
----
-
 Welcome to the **Machine Learning Algorithms and Datasets** repository.  
 This project provides modular, production-ready Python implementations of widely used machine learning algorithms, complemented by curated datasets for experimentation, benchmarking, and integration into larger data workflows.
 
